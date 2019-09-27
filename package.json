@@ -1,0 +1,16 @@
+{
+  "name": "03-fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alan gonzales",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0",
+    "yars": "^1.2.0"
+  },
+  "devDependencies": {}
+}
